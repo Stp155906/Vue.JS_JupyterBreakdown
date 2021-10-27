@@ -2,7 +2,11 @@
 About The Project
 Product Name Screen Shot
 
+<body style=
 
+<p align="center"> 
+<a href="#"><img width="40%" height="auto" src="Screen Shot 2021-09-14 at 8.48.04 PM.png" height="175px"/></a>
+</p>
 
 Vue.JS Jupter Breakdown Guide:
 
@@ -96,3 +100,9 @@ Img Shields
 GitHub Pages
 Font Awesome
 React Icons
+
+
+
+</body>
+
+
